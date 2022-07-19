@@ -2,4 +2,6 @@ DLFlare / Dadzher<br>
 PHP, Node js<br>
 https://dadzher.ru/<br>
 <br>
-contact: https://discord.gg/pkg
+discord: dlf#8822<br>
+community: https://discord.gg/pkg<br>
+qiwi: https://qiwi.com/n/DLFLARE<br>
